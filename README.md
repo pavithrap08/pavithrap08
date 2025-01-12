@@ -16,7 +16,7 @@ Welcome to my GitHub profile! 🚀
 - **Databases :** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 - **Basics :** ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=matlab&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-  ## 🎓 Education
+## 🎓 Education
 
 **B.E in Electronics and Communication**  
 R.M.D. Engineering College (CGPA 8.77/10)  
