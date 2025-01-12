@@ -25,7 +25,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 🥇 GeekforGeeks Profile
 
-[![My Profile](https://www.geeksforgeeks.org/user/user_7j9zdnv75ha)
+![My Profile](https://www.geeksforgeeks.org/user/user_7j9zdnv75ha)
 
 
 ## 💬 Connect with Me
