@@ -30,5 +30,6 @@ Welcome to my GitHub profile! 🚀
 
 ## 💬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/pavithrap08)
-- [Mail](mailp2pavi@gmail.com)
+- [Contact Me in E-Mail](mailto:mailp2pavi@gmail.com?subject=Hello&body=This%20is%20a%20sample%20email%20body.)
+
 
