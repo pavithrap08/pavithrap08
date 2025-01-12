@@ -25,9 +25,9 @@ _OCT 2022 - May 2026_
 **HSC and SSLC - State Board**  
 Kalaimagal Matric. Hr. Sec. School 
 - HSC - 89.5 %
-_May 2022_
+(_September 2021-May 2022_)
 - SSLC - 90%
-_June 2020_
+(_May 2019-June 2020_)
 
 ---
 
