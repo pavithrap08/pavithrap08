@@ -17,7 +17,8 @@ Welcome to my GitHub profile! 🚀
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavithrap08&show_icons=true&hide_title=true)
 #Leetcode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/pavi_08?](https://leetcode.com/pavi_08)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/pavi_08)](https://leetcode.com/pavi_08)
+
 
 ## 💬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/pavithrap08)
