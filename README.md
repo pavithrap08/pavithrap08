@@ -17,6 +17,11 @@ Welcome to my GitHub profile! 🚀
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavithrap08&show_icons=true&hide_title=true)
 
+## 🥇 GeekforGeeks Status
+
+[![GeeksforGeeks Stats](https://geeksforgeeks.org/api/codestats/?username=user_7j9zdnv75ha)](https://www.geeksforgeeks.org/user/user_7j9zdnv75ha)
+
+
 ## ✨ Leetcode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/pavi_08)](https://leetcode.com/pavi_08)
 
