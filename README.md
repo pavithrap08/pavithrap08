@@ -23,4 +23,5 @@ Welcome to my GitHub profile! 🚀
 
 ## 💬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/pavithrap08)
+- [Mail](mailp2pavi@gmail.com)
 
