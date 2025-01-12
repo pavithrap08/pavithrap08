@@ -18,15 +18,15 @@ Welcome to my GitHub profile! 🚀
 
   ## 🎓 Education
 
-**B.E in Electronics and Communication **  
+**B.E in Electronics and Communication**  
 R.M.D. Engineering College (CGPA 8.77/10)  
 _OCT 2022 - May 2026_
 
 **HSC and SSLC - State Board**  
 Kalaimagal Matric. Hr. Sec. School 
-HSC - 89.5 %
+- HSC - 89.5 %
 _May 2022_
-SSLC - 90%
+- SSLC - 90%
 _June 2020_
 
 ---
