@@ -25,7 +25,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 🥇 GeekforGeeks Profile
 
-[![GeeksforGeeks Stats](https://geeksforgeeks.org/api/codestats/?username=user_7j9zdnv75ha)](https://www.geeksforgeeks.org/user/user_7j9zdnv75ha)
+[![My Profile](https://www.geeksforgeeks.org/user/user_7j9zdnv75ha)
 
 
 ## 💬 Connect with Me
