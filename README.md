@@ -15,7 +15,7 @@ Welcome to my GitHub profile! 🚀
 - **Tools:** ![VSCode](https://img.shields.io/badge/-VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Zoho Creator](https://img.shields.io/badge/-Zoho_Creator-5C6BC0?style=flat&logo=zoho&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 - **Databases :** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 - **Basics :** ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=matlab&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-- 
+  
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavithrap08&show_icons=true&hide_title=true)
 
