@@ -20,4 +20,4 @@ Welcome to my GitHub profile! 🚀
 
 ## 💬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/pavithrap08)
-- [Twitter](https://twitter.com/your-twitter-profile)
+  
