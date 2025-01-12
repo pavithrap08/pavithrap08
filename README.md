@@ -16,6 +16,8 @@ Welcome to my GitHub profile! 🚀
 - **Basics :** ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=matlab&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavithrap08&show_icons=true&hide_title=true)
+#Leetcode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/pavi_08?](https://leetcode.com/pavi_08)
 
 ## 💬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/pavithrap08)
