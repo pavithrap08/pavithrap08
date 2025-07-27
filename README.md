@@ -19,7 +19,7 @@ Welcome to my GitHub profile! 🚀
 ## 🎓 Education
 
 **B.E in Electronics and Communication**  
-R.M.D. Engineering College (CGPA 8.77/10)  
+R.M.D. Engineering College (CGPA 8.74/10)  
 _OCT 2022 - May 2026_
 
 **HSC and SSLC - State Board**  
